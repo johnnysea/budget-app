@@ -3,6 +3,13 @@ This is a budget web application
 
 <br/>
 
+## Screenshot
+This is what it looks like
+
+![picture](pic/UI.png)
+
+<br/>
+
 ## How to run the application
 
 
